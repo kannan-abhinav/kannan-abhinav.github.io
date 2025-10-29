@@ -139,6 +139,8 @@ GEM
     jekyll-archives-v2 (0.0.6)
       activesupport
       jekyll (>= 3.6, < 5.0)
+    jekyll-diagrams (0.10.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
@@ -147,8 +149,6 @@ GEM
       jekyll (>= 3.0)
     jekyll-imagemagick (1.4.0)
       jekyll (>= 3.4)
-    jekyll-jupyter-notebook (0.0.6)
-      jekyll
     jekyll-link-attributes (1.0.1)
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
@@ -166,6 +166,8 @@ GEM
       citeproc-ruby (~> 2.0)
       csl-styles (~> 2.0)
       jekyll (~> 4.0)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-tabs (1.2.1)
@@ -291,18 +293,19 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.4.1)
   jekyll-archives-v2
+  jekyll-diagrams
   jekyll-email-protect
   jekyll-feed
   jekyll-get-json
   jekyll-imagemagick
-  jekyll-jupyter-notebook
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-regex-replace
   jekyll-scholar
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-tabs
   jekyll-terser!

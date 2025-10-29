@@ -1,81 +1,15 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: May 2023 - Aug 2024
+description: Systems-Level Analysis of Interconnected Axes of Cellular Plasticity in Cancer
+img: 
+importance: 1
+category: Previous
 ---
+<i> May 2023 - Aug 2024<br>
+Supervisors: Prof. Mohit Kumar Jolly</i>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project has wrapped up and is to appear as a pre-print soon!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Cancer progression is a multifaceted process and tumour cells undergo a series of changes that facilitate their survival, proliferation and migration to various sites in the body. Phenotypic plasticity, epitomized by the Epithelial-Mesenchymal Transition (EMT), is a cornerstone of cancer metastasis. While bidirectional associations such as EMT–drug resistance [(Sahoo et al. 2021)](https://academic.oup.com/narcancer/article/3/3/zcab027/6318484?login=false), EMT–stemness [(MK Jolly et al. 2015)](https://www.oncotarget.com/article/4629/text/), EMT–Immune Suppression [(Sahoo et al. 2021)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2021.797261/full), and EMT–metabolism [(Galbraith et al. 2023)](https://www.cell.com/iscience/fulltext/S2589-0042(22)01992-7?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2589004222019927?showall%3Dtrue) have been reported, studies addressing multiple axes simultaneously remain limited and thereby, investigating this interconnected network is of crucial importance and can aid in developing new combinatorial therapies to combat cancer. I constructed a minimal gene regulatory network by identifying modules consisting of key genes associated with different axes of phenotypic plasticity. The proposed gene regulatory network was simulated using RACIPE to study the emergent phenotypic states due to the intra- and inter-module interactions. The simulations revealed the existence of two mutually repressing and self-activating “teams”, one consisting of genes that promote EMT and another consisting of genes that have an inhibitory effect on EMT. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
