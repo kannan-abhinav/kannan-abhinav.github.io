@@ -210,6 +210,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/2023-07-04-jupyter-notebook.md
+  - _posts/<any-other-notebook-post>.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -355,7 +357,7 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
-  exclude:
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
@@ -663,6 +665,4 @@ twitter:
   enable: false
 
 
-exclude:
-  - _posts/2023-07-04-jupyter-notebook.md
-  - _posts/<any-other-notebook-post>.md
+
