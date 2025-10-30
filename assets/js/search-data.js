@@ -46,7 +46,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-aug-2024-dec-2024",
           title: 'Aug 2024 - Dec 2024',
-          description: "Studying Mitochondrial Fission-Fusion Dynamics",
+          description: "Studying Mitochondrial Fission Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
