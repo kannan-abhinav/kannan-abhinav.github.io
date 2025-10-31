@@ -28,13 +28,13 @@ latest_posts:
 ---
 Hello there! I’m Abhinav Kannan, a fifth-year BS–MS student at the Indian Institute of Science Education and Research (IISER), Pune — welcome to my website!
 
-I’m broadly interested in understanding how biological systems self-organize, maintain robustness, and adapt across scales, and in exploring how disruptions to such homeostasis can give rise to complex phenomena like cancer.
+I’m broadly interested in understanding how biological systems self-organize, maintain robustness, and adapt across scales, and exploring how disruptions to such homeostasis can lead to complex phenomena like cancer.
 
-At the heart of my curiosity lies a fascination with how simple interactions can generate emergent organization and adaptive behavior, spanning levels from cell populations to ecological communities. My research focuses on developing mathematical and computational models that balance biological realism with theoretical generality, drawing on quantitative frameworks from physics, mathematics, and systems biology.
+At the heart of my curiosity lies a fascination with how simple interactions give rise to emergent organization and adaptive behavior, spanning levels from cell populations to ecological communities. My research focuses on developing mathematical and computational models that balance biological realism with theoretical generality, drawing on frameworks from physics, mathematics, and systems biology.
 
 I am currently pursuing my Master’s thesis with [Prof. Dominik Wodarz](https://wodarzlab.biosci.ucsd.edu/) in the Department of Ecology, Behavior and Evolution at UC San Diego, where I develop models that integrate ecological and evolutionary processes in cancer. In particular, my work examines how spatial feedbacks, resource competition, and microenvironmental heterogeneity shape the adaptability and persistence of cancer stem cells within tumors.
 
-This project extends ideas I began exploring with [Prof. Mohit Kumar Jolly](https://be.iisc.ac.in/~mkjolly/) in the Cancer Systems Biology Laboratory at the Indian Institute of Science (IISc), Bangalore, where I studied non-genetic heterogeneity and phenotypic plasticity in cancer. Using Boolean and ODE-based gene regulatory network models, I examined how cancer cells transition between multiple regulatory states — and how the coupling of these transitions gives rise to emergent, population-level behaviors.
+This project extends ideas I began exploring with [Prof. Mohit Kumar Jolly](https://be.iisc.ac.in/~mkjolly/) in the Cancer Systems Biology Laboratory at the Indian Institute of Science (IISc), Bangalore, where I studied non-genetic heterogeneity and phenotypic plasticity in cancer. Using Boolean and ODE-based gene regulatory network models, I examined how cancer cells transition between multiple regulatory states and how the coupling of these transitions gives rise to emergent, population-level behaviors.
 
 To gain firsthand experience with experimental biology, I trained in [Prof. Thomas Pucadyil’s lab](https://www.pucadyillab.com/) lab at IISER Pune, where I characterized protein–protein interactions involved in mitochondrial dynamics. While not directly shaping my current modeling work, this experience gave me a deeper appreciation for the nuances of experimental systems and what it truly means to build theory that engages meaningfully with data and biology.
 
@@ -42,7 +42,8 @@ Over the past few years, I’ve been selected to participate in several interdis
 
 When I am not working on my research, I am most probably out playing tennis, listening to [music](https://music.apple.com/profile/abhinav_k_) at unhealthily high volumes, ticking a book off my TBR list or geeking out about the latest tech out there.
 
-I am happy you found your way here ^__^ I love meeting and talking to new people, both online and offline so [drop me an email](mailto:abkannan@ucsd.edu) if you want to talk about anything.
+I’m glad you found your way here ^__^
+I love meeting and talking to new people so feel free to [drop me an email](mailto:abkannan@ucsd.edu) if you’d like to chat about science (or anything else!)
 
 <!-- I have always been generally curious about the natural world and do read popular science books -->
 

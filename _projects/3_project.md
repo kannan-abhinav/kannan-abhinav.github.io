@@ -2,7 +2,7 @@
 layout: page
 title: Aug 2024 - Dec 2024
 description: Studying Mitochondrial Fission Dynamics 
-img: /assets/img/tp-thumbnail.jpeg
+img: /assets/img/tp-thumbnail.png
 importance: 1
 category: Previous
 ---
