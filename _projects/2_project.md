@@ -13,5 +13,4 @@ Cancer progression is a multifaceted process and tumour cells undergo a series o
 
 I constructed a minimal gene regulatory network by identifying modules consisting of key genes associated with different axes of phenotypic plasticity. The proposed gene regulatory network was simulated using continuous (RACIPE) and discrete (Boolean) simulations to study the emergent phenotypic states due to the intra- and inter-module interactions. The simulations revealed the existence of two mutually repressing and self-activating “teams”, one consisting of genes that promote EMT and another consisting of genes that have an inhibitory effect on EMT. 
 
-Subsequent extensions by collaborators have led to the project wrapping up. It is to appear as a pre-print soon!
-
+This work is now out on bioRxiv as a pre-print: (https://doi.org/10.1101/2025.11.23.688595)
